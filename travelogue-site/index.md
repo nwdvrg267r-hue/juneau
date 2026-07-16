@@ -6,7 +6,7 @@ description: Stories, snapshots, and maps from the road — shared just for you.
 
 <!-- CUSTOMIZE: Replace "Our Adventures" above and throughout with your own blog name -->
 
-# ✈️ Our Adventures
+# ✈️ To Juneau and Back
 
 *Stories, snapshots, and maps from the road — shared just for you.*
 
@@ -16,12 +16,13 @@ description: Stories, snapshots, and maps from the road — shared just for you.
 
 <!-- CUSTOMIZE: Replace with your name and bio -->
 
-Hi! We're Mike and family — and we love to explore. This is our corner of the internet
-for sharing trips with the people we care about. Grab a coffee, scroll around, and come along for the ride. 🧳
+In the road again (Admittedly I will be going the greatest distance by air, spend the most time on the ocesan, and less than 50 miles by road, but there is some mystique to being "on the road again") To me the **journey** is the best part of a travel and the destination is just an excuse. So previously I took a cruise down the Snake and Columbia rivers, and came close to circumnavigating the continent by rail. When I began looking for my next journey, I looked at a rail journey almost the entire length of the African continent, but was put off when I found formal dress is expected for dinner. A cruise from the Canary islands to Morrocco still has some apeal, and is on the back burner. But I received a brochure from American Cruise Lines, the same company I had cruised the Columbia with, and was captured by the idea of cruising the inland passage from Juneau, Alaska to Tacoma, Washington. There were no single staterooms available for almost eighteen months. That was seventeen months ago. So my bags are packed my passage paid and I --sail-- fly September 5. 🧳
+
+Once again I will be sharing my journey with family and friends via the internet. So please join me on my journey. 
 
 ---
 
-## 📍 Where We've Been
+## 📍 Where I've Been
 
 Click any destination to see it on the map:
 
