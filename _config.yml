@@ -1,0 +1,14 @@
+# ── GitHub Pages / Jekyll configuration ───────────────
+# CUSTOMIZE: Change title, description, and your name
+
+title: Our Adventures
+description: Stories, snapshots, and maps from the road.
+author: Mike
+
+# This sets the visual theme. Options: cayman · minima · slate · midnight · architect
+# Preview themes at: https://pages.github.com/themes/
+theme: jekyll-theme-cayman
+
+# Leave these as-is
+plugins:
+  - jekyll-relative-links
