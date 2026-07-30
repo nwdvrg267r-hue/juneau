@@ -26,6 +26,7 @@ Once again I will be sharing my journey with family and friends via the internet
 
 ## The itenerary
 
+[American Cruise Lines Passenger Itinerary.pdf](https://github.com/user-attachments/files/30556337/American.Cruise.Lines.Passenger.Itinerary.pdf)
 
 
 <!-- COPY THIS TEMPLATE TO ADD A NEW TRIP:
@@ -58,11 +59,6 @@ Your trip story goes here. Write as much or as little as you like.
 
 | | | |
 |---|---|---|
-| ![Temple gate at dusk](https://picsum.photos/seed/temple/400/300) | ![Peak sakura](https://picsum.photos/seed/blossom/400/300) | ![Cliffside village](https://picsum.photos/seed/coast1/400/300) |
-| *Temple gate at dusk, Kyoto* | *Peak sakura, Maruyama Park* | *Cliffside village, Amalfi* |
-| ![Lemon groves](https://picsum.photos/seed/lemon/400/300) | ![Torres del Paine](https://picsum.photos/seed/torres/400/300) | ![Glacier lake](https://picsum.photos/seed/glacier/400/300) |
-| *Lemon groves above Positano* | *Torres del Paine at sunrise* | *Grey Glacier lake, Chile* |
-
+| (https://photos.icloud.com/shared/album/07f54g-08sn2oDaSyB3DRcLpA) | ![Constitution]
 ---
 
-*© 2025 Our Adventures · Made with love & miles*
