@@ -24,9 +24,25 @@ Once again I will be sharing my journey with family and friends via the internet
 
 ---
 
-## The itenerary
+## Itenerary
 
-[American Cruise Lines Passenger Itinerary.pdf](https://github.com/user-attachments/files/30556337/American.Cruise.Lines.Passenger.Itinerary.pdf)
+| Port of Call | Date | Arrive | Date | Depart | Posted | 
+|----------|----------|----------| ----------| ----------| ----------|
+| DFW | Sep 05 | | | 9:00 AM | Pending |
+| Juneau | “ | 3:10 PM | | | |
+| Board ship | Sep 06 | 11:00 AM |Sep 06 | 3:00 PM | Pending |
+| Haines | “ | 11:00 PM | Sep 07 | 7:00 PM | Pending |
+| “ | Sep 07 | 7:30 PM | Sep 08 |4:00 AM | Pending |
+| Skagway | Sep 08 | 5:30 AM | | 6:00 PM | Pending |
+| Glacier Bay | Sep 09 | 8:00 AM | Sep 10 | 12:00 PM | Pending |
+| Petersburg | Sep 11 | 7:00 AM | Sep 11 | 8:00 PM | Pending |
+| Wrangell | Sep 12 | 12:30 AM | Sep 12 | 8:00 AM| Pending |
+| Ketchikan | Sep 13 | 5:00 PM | Sep 14 | 6:00 PM | Pending |
+| Friday Harbor | Sep 17 | 8:00 AM | Sep 17 | 6:00 PM | Pending |
+| Anacortes | Sep 17 | 8:00 PM | Sep 19 | 5:00 AM | Pending |
+| Seattle/Tacoma| Sep 19 | 3:00 PM | Sep 20 | 8:00 AM | Pending |
+| SEATAC | | | 12:!2 PM | Sep 20 |
+| DFW | Sep 20 | 6:29 PM | | | Pending |
 
 
 <!-- COPY THIS TEMPLATE TO ADD A NEW TRIP:
@@ -59,6 +75,7 @@ Your trip story goes here. Write as much or as little as you like.
 
 | | | |
 |---|---|---|
-| (https://photos.icloud.com/shared/album/07f54g-08sn2oDaSyB3DRcLpA) | ![Constitution]
+|<img width="700" height="500" alt="ACL_Website_700x500_CTI_Overview" src="https://github.com/user-attachments/assets/0dae7f16-3d52-43a7-9607-1a0a9e6e96c6" />
+ | Constitution | |
 ---
 
