@@ -6,7 +6,7 @@ description: Share my wanderings.
 
 <!-- CUSTOMIZE: Replace "Our Adventures" above and throughout with your own blog name -->
 
-# ✈️ To Juneau and Back
+# ✈️ To Juneau and Back 🚢
 
 *Stories, images, memories of my journey.*
 
