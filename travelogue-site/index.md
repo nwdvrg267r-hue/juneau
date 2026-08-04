@@ -16,11 +16,11 @@ description: Share my wanderings.
 
 <!-- CUSTOMIZE: Replace with your name and bio -->
 
-Three years ago I cruised down the Snake and Columbia rivers, then came close to circumnavigating the continent by rail. When I once again got itchy feet and starting looking for my next *journey of a lifetime*, I first looked at a rail journey down the length of the African continent by train, but was put off when I learned formal dress was expected at dinner. There is a "small ship" cruise from the Canary islands to Morrocco still has a lot of appeal is on the back burner. as is a tiny ship (eight passengers) cruise around the coast of Scotland and the Hebrides to Denmark (way too much togetherness for my introverted personality).
+Three years ago I cruised down the Snake and Columbia rivers, then came close to circumnavigating the continent by rail the following year. When I once again got itchy feet and starting looking for my next *journey of a lifetime*, I first looked at a rail journey down the length of the African continent by train, but was put off when I learned formal dress was expected at dinner. There is a "small ship" cruise from the Canary islands to Morrocco still has a lot of appeal is on the back burner. as is a tiny ship (eight passengers) cruise around the coast of Scotland and the Hebrides to Denmark (way too much togetherness for my introverted personality).
 
 Then I received a brochure from American Cruise Lines, the same company I had cruised the Columbia River with, and was captured by the idea of cruising the inland passage from Juneau, Alaska to Tacoma, Washington with stops along the way to visit eagles, bears, seals, whale, and orca. But. there were no single staterooms available for almost eighteen months. That was seventeen months ago. So now my bags are packed (almost), my passage paid and I --sail-- fly September 5. 🧳
 
-Once again I will be sharing my journey with family and friends via the internet. So please join me on my latest odyssey. 
+So I am *on the road again* once again. (Actually less than 50 miles will be by road, 5,593 miles by air, and 1,700 miles by sea) But there is a mystique to being *on the read again*. Once again I will be sharing my journey with family and friends via the internet. So please join me on my latest odyssey. 
 
 ---
 
