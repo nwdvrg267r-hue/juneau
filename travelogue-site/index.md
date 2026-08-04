@@ -8,11 +8,11 @@ description: Share my wanderings.
 
 # ✈️ To Juneau and Back 🚢
 
-*Stories, images, memories of my journey.*
+*Stories, images, memories of my journey and adventures.*
 
 ---
 
-## 👋 About This Blog
+## 👋 Preface
 
 <!-- CUSTOMIZE: Replace with your name and bio -->
 
