@@ -80,9 +80,6 @@ Your trip story goes here. Write as much or as little as you like.
 
 <!-- PHOTO: Replace each image URL with your own photos -->
 
-| | | |
-|:—:|---|---|
-|<img width="350" height="250" alt="ACL_Website_700x500_CTI_Overview" src="https://github.com/user-attachments/assets/0dae7f16-3d52-43a7-9607-1a0a9e6e96c6" />
- | ACL Constitution | |
+<img width="350" height="250" alt="ACL_Website_700x500_CTI_Overview" src="https://github.com/user-attachments/assets/0dae7f16-3d52-43a7-9607-1a0a9e6e96c6" />
 ---
 
