@@ -24,25 +24,32 @@ Once again I will be sharing my journey with family and friends via the internet
 
 ---
 
-## Itenerary
+**THE ITENERARY**
 
-| Port of Call | Date | Arrive | Date | Depart | Posted | 
-|----------|----------|----------| ----------| ----------| ----------|
-| DFW | Sep 05 | | | 9:00 AM | Pending |
-| Juneau | “ | 3:10 PM | | | |
-| Board ship | Sep 06 | 11:00 AM |Sep 06 | 3:00 PM | Pending |
-| Haines | “ | 11:00 PM | Sep 07 | 7:00 PM | Pending |
-| “ | Sep 07 | 7:30 PM | Sep 08 |4:00 AM | Pending |
-| Skagway | Sep 08 | 5:30 AM | | 6:00 PM | Pending |
-| Glacier Bay | Sep 09 | 8:00 AM | Sep 10 | 12:00 PM | Pending |
-| Petersburg | Sep 11 | 7:00 AM | Sep 11 | 8:00 PM | Pending |
-| Wrangell | Sep 12 | 12:30 AM | Sep 12 | 8:00 AM| Pending |
-| Ketchikan | Sep 13 | 5:00 PM | Sep 14 | 6:00 PM | Pending |
-| Friday Harbor | Sep 17 | 8:00 AM | Sep 17 | 6:00 PM | Pending |
-| Anacortes | Sep 17 | 8:00 PM | Sep 19 | 5:00 AM | Pending |
-| Seattle/Tacoma| Sep 19 | 3:00 PM | Sep 20 | 8:00 AM | Pending |
-| SEATAC | | | 12:!2 PM | Sep 20 |
-| DFW | Sep 20 | 6:29 PM | | | Pending |
+| Date | Port of Call |Adventure | Arrive | Depart | Blog Status | 
+| ---------- | ---------- | ---------- | ---------- |---------- | ---------- |
+| Sep 05 | **DFW** | |  09:00 | |
+| | **Juneau** | | 15:10 | |  |
+| Sep 06 | **ACL Constitution** | | 11:30 | Sep 06, 15:00 ||
+| | **Haines** | | 23:00 | Sep 08, 16:00 | |
+| Sep 07| | *Rafting Eagle Reserve* | | | Pending |
+| Sep 08 | **Skagway**  | | 05:30 | 18:00 |  |
+| Sep 09 | | *At Sea* | | | Pending | 
+| Sep 10 | **Glacier Bay** | | 08:00| 24:00 |Pending |
+| Sep 11 | **Petersburg** | | 07:00 |  20:00 | Pending |
+| Sep 12 | **Wrangell** |  |00:30 | 08:00 | Pending ||
+| | | *Rainforest Walk*  |
+| Sep 12 | **Ketchikan** | | 17:00 | Sep 14, 18:00 |  |
+| Sep 13 | | *Duckboat Adventure* | | | Pending |
+| Sep | **Friday Harbor** | | 08:00 | Sep 14, 18:00 | |
+| SEP 14 | | *Jetboat Adventure* | | | Pending |
+| Sep 15 | | *At Sea* | | | | 
+| Sep 16 | | *At Sea* | | | |
+| Sep 17 | **Anacortes** | | 20:00  | Sep 19, 05:00 | Pending |
+| Sep 18 | | *At Sea* | | | 
+| Sep 19 | **Seattle/Tacoma** || 15:00 | Sep 20, 08:00 | Pending |
+| Sep 20 | **SEATAC** | | 10:00 | 12:12 | |
+| | **DFW** | 18:29 | | | |
 
 
 <!-- COPY THIS TEMPLATE TO ADD A NEW TRIP:
