@@ -83,6 +83,6 @@ Your trip story goes here. Write as much or as little as you like.
 | | | |
 |---|---|---|
 |<img width="700" height="500" alt="ACL_Website_700x500_CTI_Overview" src="https://github.com/user-attachments/assets/0dae7f16-3d52-43a7-9607-1a0a9e6e96c6" />
- | Constitution | |
+ | ACL Constitution | |
 ---
 
