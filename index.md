@@ -1,8 +1,3 @@
----
-layout: default
-title: Our Adventures
-description: Stories, snapshots, and maps from the road — shared just for you.
----
 
 <!-- CUSTOMIZE: Replace "Our Adventures" above and throughout with your own blog name -->
 
